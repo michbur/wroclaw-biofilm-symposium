@@ -95,25 +95,7 @@ layout: default
 </div>
 <!-- End About -->
 
-<!-- Start Treatments -->
-<div id="topics" class="treatments">
-    <div class="container-fluid">
-        <h2 class="section-title">Topics</h2>
 
-        <div class="row">
-            {% for treatment in site.data.treatments %}
-                <div class="col-sm-6 col-md-4">
-                    <div class="icon-box">
-                        <svg class="icon {{ treatment.icon }}"><use xlink:href="#{{ treatment.icon }}"></use></svg>
-                        <h4>{{ treatment.title }}</h4>
-                        <p>{{ treatment.description }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-<!-- End Treatments -->
 
 <!-- Start Our team -->
 <div id="speakers" class="team"> 
@@ -126,9 +108,9 @@ layout: default
                 <h4>{{ member.name }}</h4>
             </div>
             <div class="expandable-box-bottom">
-                <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
+                <a href="mailto:{{ member.bio }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.bio }}"><i class="fa fa-university fa-2x" aria-hidden="true"></i></a>
                 </a>
-                <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
+                <a href="tel:{{ member.abstr }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.abstr }}"><i class="fa fa-book fa-2x" aria-hidden="true"></i></a>
                 </a>
             </div>
         </div>

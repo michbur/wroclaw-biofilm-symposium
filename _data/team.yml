@@ -1,34 +1,34 @@
 - name: Fredrik Almqvist
   image: almqvist.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: Professor at Department of Chemistry, Deputy Head of Department, University of Umeå (Sweden)
+  abstr: words words words
 
 - name: Maciej Ugorski
   image: ugorski.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: bio@gmail.com
+  abstr: words words words
 
 - name: Peter Schierack
   image: schierack.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: bio@gmail.com
+  abstr: words words words
 
 - name: Paweł Mackiewicz
   image: mackiewicz.png
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: Professor at Department of Genomics, Head of Department, University of Wrocław (Poland)
+  abstr: words words words
 
 - name: Teodor Gotszalk
   image: gotszalk.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: Professor at the Faculty of Microsystem Electronics and Photonics, leader of the Nanometrology group, Wroclaw University of Technology (Poland)
+  abstr: words words words
 
 - name: Stefan Rödiger
   image: roediger.png
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: bio@gmail.com
+  abstr: words words words
 
 - name: Małgorzata Kotulska
   image: kotulska.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
+  bio: bio@gmail.com
+  abstr: words words words
