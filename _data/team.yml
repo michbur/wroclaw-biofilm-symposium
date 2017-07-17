@@ -1,0 +1,34 @@
+- name: Fredrik Almqvist
+  image: almqvist.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Maciej Ugorski
+  image: ugorski.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Peter Schierack
+  image: schierack.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Paweł Mackiewicz
+  image: mackiewicz.png
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Teodor Gotszalk
+  image: gotszalk.jpg
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Stefan Rödiger
+  image: roediger.png
+  email: email@gmail.com
+  phone: 9659 43 21
+
+- name: Małgorzata Kotulska
+  image: kotulska.jpg
+  email: email@gmail.com
+  phone: 9659 43 21

@@ -1,0 +1,6 @@
+_site
+.sass-cache
+node_modules/
+.Rproj.user
+.Rhistory
+biofilm_conference.Rproj

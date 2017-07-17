@@ -1,0 +1,63 @@
+# Site settings
+title: Wrocław Biofilm Symposium
+description: "A responsive Jekyll theme for dental clinics."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: Wrocław Biofilm Symposium 
+    hero_description: Amyloidic origins of biofilms - from formation to dispersion.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    email: biofilmsymposium@biotech.uni.wroc.pl
+    address: Faculty of Biotechnology <br> University of Wrocław <br> Fryderyka Joliot-Curie 14a <br> 50-383 Wrocław, Poland
+
+# Opening hours
+day1: 12:00 – 19:00
+day2: 08:30 – 14:00
+
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 15.5
+    address: Fryderyka Joliot-Curie 14a, 50-383 Wrocław
+    address_details: svg/min/logo.svg
+
+# Social settings
+# facebook: http://facebook.com
+# twitter: http://twitter.com
+# instagram: http://instagram.com
+# youtube: http://youtube.com
+# skype: skype:obaez_design?userinfo
+# feed: yes
+
+# Footer
+copyright: © 2015 DentistSmile - All rights reserved (modified by Michał Burdukiewicz)
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
