@@ -5,6 +5,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
+#git seetings
+safe: true
+gist:
+    noscript: false
+
 # Hero
 hero: 
     hero_img: hero.jpg
