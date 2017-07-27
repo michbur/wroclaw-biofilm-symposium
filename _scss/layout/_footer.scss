@@ -1,9 +1,8 @@
 /* FOOTER
 -------------------------------------------------*/
 .main-footer {
-    @extend %space;
-    color: $white;
-    background: lighten($colorPrimary, 2%);
+    color: $black;
+    background: $alabaster;
     text-align: center;
     small {
         display: block;

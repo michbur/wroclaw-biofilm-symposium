@@ -2,7 +2,7 @@
 -------------------------------------------------*/
 .form {
     padding: $spaceDouble $space;
-    background: $colorBg;
+    background: rgba($alabaster, 0.93);
     @include breakpoint(small) {
         padding: $spaceDouble*2 $space;
     }

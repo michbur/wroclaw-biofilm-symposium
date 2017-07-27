@@ -18,10 +18,10 @@
             background: $colorPrimary;
         }
         &:nth-child(2) {
-            background: lighten($colorPrimary, 2%);
+            background: lighten($colorPrimary, 4%);
         }
         &:nth-child(3) {
-            background: lighten($colorPrimary, 4%);
+            background: lighten($colorPrimary, 8%);
         }
     }
     .icon {
