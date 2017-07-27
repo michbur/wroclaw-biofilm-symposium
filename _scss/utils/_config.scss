@@ -19,7 +19,7 @@ $fontWeightBold: 700;
 /* Descriptive colors */
 $white: #fff;
 $black: #000;
-$grey: #333;
+$grey: #ff0000;
 $greyLight: #555;
 $gallery: #eee;
 $alto: #ddd;
@@ -28,10 +28,10 @@ $alabaster: #f7f7f7;
 $pelorous: #3dadb2;
 
 /* Color usage */
-$colorPrimary: $pelorous;
+$colorPrimary: $grey;
 $colorHeading: $grey;
-$colorBase: $greyLight;
-$colorBg: $alabaster;
+$colorBase: $grey;
+$colorBg: $grey;
 $colorBorder: $alto;
 
 /* Spacing
