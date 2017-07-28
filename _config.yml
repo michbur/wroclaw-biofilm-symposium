@@ -3,7 +3,7 @@ title: Wrocław Biofilm Symposium
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/biofilmsymposium" # the subpath of your site, e.g. /blog
 url: "http://www.ibmb.uni.wroc.pl" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: svg/logo.svg
 
 #git seetings
 safe: true

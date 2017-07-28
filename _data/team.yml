@@ -14,7 +14,7 @@
   abstr: words words words
 
 - name: Paweł Mackiewicz
-  image: mackiewicz.png
+  image: mackiewicz.jpg
   bio: Professor at Department of Genomics, Head of Department, University of Wrocław (Poland)
   abstr: words words words
 
@@ -24,7 +24,7 @@
   abstr: words words words
 
 - name: Stefan Rödiger
-  image: roediger.png
+  image: roediger.jpg
   bio: bio@gmail.com
   abstr: words words words
 
@@ -32,3 +32,9 @@
   image: kotulska.jpg
   bio: bio@gmail.com
   abstr: words words words
+  
+- name: Marcin Łukaszewicz
+  image: lukaszewicz.jpg
+  bio: bio@gmail.com
+  abstr: words words words
+  
