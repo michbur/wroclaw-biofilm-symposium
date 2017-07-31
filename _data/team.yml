@@ -13,14 +13,14 @@
   bio: bio@gmail.com
   abstr: words words words
 
-- name: Paweł Mackiewicz
-  image: mackiewicz.jpg
-  bio: Professor at Department of Genomics, Head of Department, University of Wrocław (Poland)
-  abstr: words words words
-
 - name: Teodor Gotszalk
   image: gotszalk.jpg
   bio: Professor at the Faculty of Microsystem Electronics and Photonics, leader of the Nanometrology group, Wroclaw University of Technology (Poland)
+  abstr: words words words
+
+- name: Małgorzata Kotulska
+  image: kotulska.jpg
+  bio: bio@gmail.com
   abstr: words words words
 
 - name: Stefan Rödiger
@@ -28,13 +28,18 @@
   bio: bio@gmail.com
   abstr: words words words
 
-- name: Małgorzata Kotulska
-  image: kotulska.jpg
-  bio: bio@gmail.com
-  abstr: words words words
-  
 - name: Marcin Łukaszewicz
   image: lukaszewicz.jpg
   bio: bio@gmail.com
   abstr: words words words
+
+
+- name: Paweł Mackiewicz
+  image: mackiewicz.jpg
+  bio: Professor at Department of Genomics, Head of Department, University of Wrocław (Poland)
+  abstr: words words words
+
+
+
+  
   

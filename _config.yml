@@ -1,8 +1,8 @@
 # Site settings
 title: Wrocław Biofilm Symposium
-description: "A responsive Jekyll theme for dental clinics."
-baseurl: "/biofilmsymposium" # the subpath of your site, e.g. /blog
-url: "http://www.ibmb.uni.wroc.pl" # the name of your domain
+description: "Wrocław Biofilm Symposium. Amyloidic origins of biofilms - from formation to dispersion. Wrocław, Poland, 9-10.10.2017"
+baseurl: ""
+url: ""
 logo_url: svg/logo.svg
 
 #git seetings
