@@ -1,8 +1,8 @@
 # Site settings
 title: Wrocław Biofilm Symposium
 description: "Wrocław Biofilm Symposium. Amyloidic origins of biofilms - from formation to dispersion. Wrocław, Poland, 9-10.10.2017"
-baseurl: ""
-url: ""
+baseurl: "/biofilmsymposium"
+url: "http://www.ibmb.uni.wroc.pl" 
 logo_url: svg/logo.svg
 
 #git seetings
