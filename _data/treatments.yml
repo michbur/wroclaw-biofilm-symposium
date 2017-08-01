@@ -1,23 +1,8 @@
-- icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: logo-uwr.png
+  title: University of Wrocław
+  url: http://www.uni.wroc.pl/
 
-- icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+- icon: LogoKnow.png
+  title: Wrocław Center for Biotechnology Consortium 
+  url: http://know.wroc.pl/
 
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-- icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
