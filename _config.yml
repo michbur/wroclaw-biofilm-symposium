@@ -17,7 +17,7 @@ hero:
     hero_description: Amyloidic origins of biofilms - from formation to dispersion.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 4483eb9b2817cc419670c03c4cc0daa2
 
 # Contact info
 contact:
