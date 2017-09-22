@@ -1,4 +1,5 @@
 module.exports = function (grunt) {
+  grunt.loadNpmTasks('grunt-font-awesome-vars');
 
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
@@ -31,6 +32,15 @@ module.exports = function (grunt) {
                 }
             }
         },
+        
+        fontAwesomeVars: {
+		      main: {
+			      variablesLessPath: 'variables.less',
+			      variablesScssPath: '_variables.scss',
+			     fontPath: '../fonts/fonts/font-awesome/fonts'
+		            }
+	     },
+
 
         autoprefixer: {
             main: {
