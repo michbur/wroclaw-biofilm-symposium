@@ -2,26 +2,30 @@
   title: University of Wrocław
   url: http://www.uni.wroc.pl/
 
-- icon: LogoKnow.png
-  title: Wrocław Center for Biotechnology Consortium 
-  url: http://know.wroc.pl/
-  
 - icon: logo-pwr.png
   title: Wrocław University of Science and Technology 
   url: http://pwr.edu.pl/
+
+- icon: LogoKnow.png
+  title: Wrocław Center for Biotechnology Consortium 
+  url: http://know.wroc.pl/
+
+- icon: logo-dknb.png
+  title: Student Bioinformatics Club
+  url: http://michbur.github.io/DKNB/ 
+
+- icon: logo-be.png
+  title: Department of Biomedical Engineering <br> Wrocław University of Science and Technology 
+  url: http://www.ibp.pwr.edu.pl/english.html
   
 - icon: logo-eit.jpg
   title: Wrocław Research Centre EIT+
   url: http://www.eitplus.pl/en/
-  
-- icon: logo-be.png
-  title: Department of Biomedical Engineering <br> Wrocław University of Science and Technology 
-  url: http://www.ibp.pwr.edu.pl/english.html
-
-- icon: logo-wppt.png
-  title: Faculty of Fundamental Problems of Technology <br> Wrocław University of Science and Technology
-  url: http://wppt.pwr.edu.pl/
 
 - icon: logo-vwr.png
   title: VWR International
   url: https://vwr.com/
+  
+- icon: logo-wppt.png
+  title: Faculty of Fundamental Problems of Technology <br> Wrocław University of Science and Technology
+  url: http://wppt.pwr.edu.pl/
